@@ -581,7 +581,7 @@ p {
 }
 
 .index {
-    background-image: url('Images/shoecol.jpg');
+    background-image: url('images/Shoecol.jpg');
     background-repeat: no-repeat;
     background-size: cover; /* Adjust this as needed */
     background-attachment: fixed; /* Optional: This makes the background fixed */
