@@ -1,0 +1,11 @@
+User-agent: *
+# Allow all web crawlers to access the main pages
+Allow: /$
+Allow: /products$
+Allow: /support$
+
+# Disallow crawling of potential backend or sensitive directories
+Disallow: /private/
+
+# Specify the location of the sitemap for better crawling
+Sitemap: https://hagobuydeals.com/sitemap.xml
