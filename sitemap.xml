@@ -3,7 +3,7 @@
   <!-- Home Page -->
   <url>
     <loc>https://hagobuydeals.com/</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,7 +11,7 @@
   <!-- Products Page -->
   <url>
     <loc>https://hagobuydeals.com/products</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- Support Page -->
   <url>
     <loc>https://hagobuydeals.com/support</loc>
-    <lastmod>2023-10-21</lastmod>
+    <lastmod>2023-11-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
